@@ -1,631 +1,1990 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="AMC">
-    <display-name lang="pt">AMC</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Canal Brasil">
-    <display-name lang="pt">Canal Brasil</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Cinemax">
-    <display-name lang="pt">Cinemax</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO">
-    <display-name lang="pt">HBO</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO 2">
-    <display-name lang="pt">HBO 2</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO Family">
-    <display-name lang="pt">HBO Family</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO Mundi">
-    <display-name lang="pt">HBO Mundi</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO Pop">
-    <display-name lang="pt">HBO Pop</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO Signature">
-    <display-name lang="pt">HBO Signature</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO Xtreme">
-    <display-name lang="pt">HBO Xtreme</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO+">
-    <display-name lang="pt">HBO+</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Megapix">
-    <display-name lang="pt">Megapix</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Megapix HD">
-    <display-name lang="pt">Megapix HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Paramount Channel">
-    <display-name lang="pt">Paramount Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SPACE">
-    <display-name lang="pt">SPACE</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Space HD">
-    <display-name lang="pt">Space HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TCM - Turner Classic Movies">
-    <display-name lang="pt">TCM - Turner Classic Movies</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Action">
-    <display-name lang="pt">Telecine Action</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Cult">
-    <display-name lang="pt">Telecine Cult</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Fun">
-    <display-name lang="pt">Telecine Fun</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Pipoca">
-    <display-name lang="pt">Telecine Pipoca</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Premium">
-    <display-name lang="pt">Telecine Premium</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Touch">
-    <display-name lang="pt">Telecine Touch</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TNT">
-    <display-name lang="pt">TNT</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TNT HD">
-    <display-name lang="pt">TNT HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TruTV">
-    <display-name lang="pt">TruTV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TruTV HD">
-    <display-name lang="pt">TruTV HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="A&amp;E">
-    <display-name lang="pt">A&amp;E</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Animal Planet">
-    <display-name lang="pt">Animal Planet</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="AXN">
-    <display-name lang="pt">AXN</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="AXN HD">
-    <display-name lang="pt">AXN HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery HD Theater">
-    <display-name lang="pt">Discovery HD Theater</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Eurochannel">
-    <display-name lang="pt">Eurochannel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Film &amp; Arts">
-    <display-name lang="pt">Film &amp; Arts</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Fox">
-    <display-name lang="pt">Fox</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Fox Life">
-    <display-name lang="pt">Fox Life</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="FX">
-    <display-name lang="pt">FX</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="i-Sat">
-    <display-name lang="pt">i-Sat</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Investigação Discovery">
-    <display-name lang="pt">Investigação Discovery</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Lifetime">
-    <display-name lang="pt">Lifetime</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Sony">
-    <display-name lang="pt">Sony</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Studio Universal">
-    <display-name lang="pt">Studio Universal</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SyFy">
-    <display-name lang="pt">SyFy</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TBS">
-    <display-name lang="pt">TBS</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TNT Séries">
-    <display-name lang="pt">TNT Séries</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Universal Channel">
-    <display-name lang="pt">Universal Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Warner Channel">
-    <display-name lang="pt">Warner Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Band Sports">
-    <display-name lang="pt">Band Sports</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Combate">
-    <display-name lang="pt">Combate</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="ESPN">
-    <display-name lang="pt">ESPN</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="ESPN Brasil">
-    <display-name lang="pt">ESPN Brasil</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="ESPN  HD">
-    <display-name lang="pt">ESPN  HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Fox Sports">
-    <display-name lang="pt">Fox Sports</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Fox Sports 2">
-    <display-name lang="pt">Fox Sports 2</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="OFF HD">
-    <display-name lang="pt">OFF HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Premiere Clubes">
-    <display-name lang="pt">Premiere Clubes</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rush HD">
-    <display-name lang="pt">Rush HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Speed Channel">
-    <display-name lang="pt">Speed Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SporTV">
-    <display-name lang="pt">SporTV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SporTV 2">
-    <display-name lang="pt">SporTV 2</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SporTV 3">
-    <display-name lang="pt">SporTV 3</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="The Golf Channel">
-    <display-name lang="pt">The Golf Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Corinthians">
-    <display-name lang="pt">TV Corinthians</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Baby TV">
-    <display-name lang="pt">Baby TV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Boomerang">
-    <display-name lang="pt">Boomerang</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Cartoon Network">
-    <display-name lang="pt">Cartoon Network</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Kids">
-    <display-name lang="pt">Discovery Kids</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Disney Channel">
-    <display-name lang="pt">Disney Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Disney Channel HD">
-    <display-name lang="pt">Disney Channel HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Disney Junior">
-    <display-name lang="pt">Disney Junior</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Disney XD">
-    <display-name lang="pt">Disney XD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Gloob">
-    <display-name lang="pt">Gloob</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Nick Jr.">
-    <display-name lang="pt">Nick Jr.</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Nickelodeon">
-    <display-name lang="pt">Nickelodeon</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Tooncast">
-    <display-name lang="pt">Tooncast</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Rá-tim-bum">
-    <display-name lang="pt">TV Rá-tim-bum</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Amazon Sat">
-    <display-name lang="pt">Amazon Sat</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Arte 1">
-    <display-name lang="pt">Arte 1</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="BBC Earth">
-    <display-name lang="pt">BBC Earth</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Bis HD">
-    <display-name lang="pt">Bis HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Canal do Boi">
-    <display-name lang="pt">Canal do Boi</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Canal Rural">
-    <display-name lang="pt">Canal Rural</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Canção Nova">
-    <display-name lang="pt">Canção Nova</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Casa Club TV">
-    <display-name lang="pt">Casa Club TV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Climatempo">
-    <display-name lang="pt">Climatempo</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Comedy Central">
-    <display-name lang="pt">Comedy Central</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Concert Channel">
-    <display-name lang="pt">Concert Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="E! Entertainment Television">
-    <display-name lang="pt">E! Entertainment Television</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Futura">
-    <display-name lang="pt">Futura</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Glitz*">
-    <display-name lang="pt">Glitz*</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="GNT">
-    <display-name lang="pt">GNT</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Hiper TV">
-    <display-name lang="pt">Hiper TV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Multishow">
-    <display-name lang="pt">Multishow</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="NBR">
-    <display-name lang="pt">NBR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="NHK World">
-    <display-name lang="pt">NHK World</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="RAI International">
-    <display-name lang="pt">RAI International</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="RBI">
-    <display-name lang="pt">RBI</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede Boa Vontade">
-    <display-name lang="pt">Rede Boa Vontade</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede Famí­lia">
-    <display-name lang="pt">Rede Famí­lia</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede Gênesis">
-    <display-name lang="pt">Rede Gênesis</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede Internacional de TV">
-    <display-name lang="pt">Rede Internacional de TV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede Super de Televisão">
-    <display-name lang="pt">Rede Super de Televisão</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="RTP Internacional">
-    <display-name lang="pt">RTP Internacional</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Santa Cecília TV">
-    <display-name lang="pt">Santa Cecília TV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SESC TV">
-    <display-name lang="pt">SESC TV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Shoptime">
-    <display-name lang="pt">Shoptime</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SIC International">
-    <display-name lang="pt">SIC International</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Smithsonian HD">
-    <display-name lang="pt">Smithsonian HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Terra Viva">
-    <display-name lang="pt">Terra Viva</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Câmara">
-    <display-name lang="pt">TV Câmara</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Escola">
-    <display-name lang="pt">TV Escola</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Espanha">
-    <display-name lang="pt">TV Espanha</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Justiça">
-    <display-name lang="pt">TV Justiça</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Senado">
-    <display-name lang="pt">TV Senado</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV União">
-    <display-name lang="pt">TV União</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV5 Monde">
-    <display-name lang="pt">TV5 Monde</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Vh1">
-    <display-name lang="pt">Vh1</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Vh1 HD">
-    <display-name lang="pt">Vh1 HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="VH1 Mega Hits">
-    <display-name lang="pt">VH1 Mega Hits</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Viva">
-    <display-name lang="pt">Viva</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Woohoo">
-    <display-name lang="pt">Woohoo</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Channel">
-    <display-name lang="pt">Discovery Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Civilization">
-    <display-name lang="pt">Discovery Civilization</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Home &amp; Health">
-    <display-name lang="pt">Discovery Home &amp; Health</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Science">
-    <display-name lang="pt">Discovery Science</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Turbo">
-    <display-name lang="pt">Discovery Turbo</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="H2">
-    <display-name lang="pt">H2</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="H2 HD">
-    <display-name lang="pt">H2 HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="History Channel">
-    <display-name lang="pt">History Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="History Channel HD">
-    <display-name lang="pt">History Channel HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Nat Geo Wild HD">
-    <display-name lang="pt">Nat Geo Wild HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="National Geographic">
-    <display-name lang="pt">National Geographic</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TLC">
-    <display-name lang="pt">TLC</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Band News">
-    <display-name lang="pt">Band News</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="BBC World News">
-    <display-name lang="pt">BBC World News</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Bloomberg">
-    <display-name lang="pt">Bloomberg</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CNN Brasil">
-    <display-name lang="pt">CNN Brasil</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CNN Espanhol">
-    <display-name lang="pt">CNN Espanhol</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CNN International">
-    <display-name lang="pt">CNN International</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Deutsche Welle">
-    <display-name lang="pt">Deutsche Welle</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Fox News">
-    <display-name lang="pt">Fox News</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo News">
-    <display-name lang="pt">Globo News</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Tele Sur">
-    <display-name lang="pt">Tele Sur</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Band Rede">
-    <display-name lang="pt">Band Rede</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Canal 21">
-    <display-name lang="pt">Canal 21</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CNT">
-    <display-name lang="pt">CNT</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="MTV">
-    <display-name lang="pt">MTV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Record">
-    <display-name lang="pt">Record</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Record News">
-    <display-name lang="pt">Record News</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede TV">
-    <display-name lang="pt">Rede TV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede Vida">
-    <display-name lang="pt">Rede Vida</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SBT">
-    <display-name lang="pt">SBT</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Brasil">
-    <display-name lang="pt">TV Brasil</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Brasil Central">
-    <display-name lang="pt">TV Brasil Central</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Cultura">
-    <display-name lang="pt">TV Cultura</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Gazeta">
-    <display-name lang="pt">TV Gazeta</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Globo">
-    <display-name lang="pt">TV Globo</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
+  <channel id="Regionais - globo brasilia">
+    <display-name lang="pt">Regionais - globo brasilia</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Regionais - globominas">
+    <display-name lang="pt">Regionais - globominas</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Regionais - globonordeste">
+    <display-name lang="pt">Regionais - globonordeste</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Regionais - rio">
+    <display-name lang="pt">Regionais - rio</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Regionais - são paulo">
+    <display-name lang="pt">Regionais - são paulo</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="EPTV - campinas e região">
+    <display-name lang="pt">EPTV - campinas e região</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="EPTV - Ribeirão Preto e Franca">
+    <display-name lang="pt">EPTV - Ribeirão Preto e Franca</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="EPTV - sul de minas">
+    <display-name lang="pt">EPTV - sul de minas</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="EPTV - São Carlos e Região">
+    <display-name lang="pt">EPTV - São Carlos e Região</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="TV TEM - Bauru">
+    <display-name lang="pt">TV TEM - Bauru</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="TV TEM - itapetininga">
+    <display-name lang="pt">TV TEM - itapetininga</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="TV TEM - sorocaba e região">
+    <display-name lang="pt">TV TEM - sorocaba e região</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="TV TEM - São José do Rio Preto">
+    <display-name lang="pt">TV TEM - São José do Rio Preto</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="intertvmg">
+    <display-name lang="pt">intertvmg</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="intertvrj">
+    <display-name lang="pt">intertvrj</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tv integracao">
+    <display-name lang="pt">tv integracao</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tv tribuna">
+    <display-name lang="pt">tv tribuna</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tv vanguarda">
+    <display-name lang="pt">tv vanguarda</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvdiario">
+    <display-name lang="pt">tvdiario</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvfronteira">
+    <display-name lang="pt">tvfronteira</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvgazetaes">
+    <display-name lang="pt">tvgazetaes</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvriosul">
+    <display-name lang="pt">tvriosul</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="TV Anhanguera - goiás">
+    <display-name lang="pt">TV Anhanguera - goiás</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="TV Anhanguera - tocantins">
+    <display-name lang="pt">TV Anhanguera - tocantins</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvmorena">
+    <display-name lang="pt">tvmorena</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Inter TV RN - costa branca">
+    <display-name lang="pt">Inter TV RN - costa branca</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Inter TV RN - natal">
+    <display-name lang="pt">Inter TV RN - natal</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="TV Verdes Mares - tv cariri">
+    <display-name lang="pt">TV Verdes Mares - tv cariri</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="TV Verdes Mares - tvverdesmares">
+    <display-name lang="pt">TV Verdes Mares - tvverdesmares</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="redebahia">
+    <display-name lang="pt">redebahia</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="redeclube">
+    <display-name lang="pt">redeclube</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tv sergipe">
+    <display-name lang="pt">tv sergipe</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvasabranca">
+    <display-name lang="pt">tvasabranca</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvcabobranco">
+    <display-name lang="pt">tvcabobranco</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvgazetaal">
+    <display-name lang="pt">tvgazetaal</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvgranderio">
+    <display-name lang="pt">tvgranderio</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvmirante">
+    <display-name lang="pt">tvmirante</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvparaiba">
+    <display-name lang="pt">tvparaiba</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tvtapajos">
+    <display-name lang="pt">tvtapajos</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Rede Amazônica - acre">
+    <display-name lang="pt">Rede Amazônica - acre</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Rede Amazônica - amapá">
+    <display-name lang="pt">Rede Amazônica - amapá</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Rede Amazônica - amazonas">
+    <display-name lang="pt">Rede Amazônica - amazonas</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Rede Amazônica - rondônia">
+    <display-name lang="pt">Rede Amazônica - rondônia</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Rede Amazônica - roraima">
+    <display-name lang="pt">Rede Amazônica - roraima</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="tv liberal">
+    <display-name lang="pt">tv liberal</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="nsctv">
+    <display-name lang="pt">nsctv</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="rbs tv">
+    <display-name lang="pt">rbs tv</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="rpc">
+    <display-name lang="pt">rpc</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323113000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Bom Dia DF</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia DF, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">DF1</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Sessão da Tarde - A Última Palavra</title>
+    <title lang="en">The Last Word</title>
+    <desc lang="pt">Uma mulher de negócios bem-sucedida decide escrever seu obituário dizendo seus grandes feitos. Para isso ela contrata uma jornalista, Anne Sherman. Mas Harriet não fica satisfeita com o rascunho e resolve partir numa grande aventura para reescrever sua história de vida.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">DF2</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323113000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Bom Dia Minas</title>
+    <desc lang="pt">Liliana Junger apresenta as primeiras noticias da manhã em todo o estado.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="Regionais - globominas">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">Aline Aguiar apresenta as noticias do dia e traz informações de serviço, saúde, cultura e cidadania.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Maurício Paulucci apresenta as notícias do esporte em Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="Regionais - globominas">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="Regionais - globominas">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">Segunda edição do jornal que apresenta as principais notícias de Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324004000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323113000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Bom Dia Pernambuco</title>
+    <desc lang="pt">As notícias da manhã ao vivo: este é o Bom Dia Pernambuco. Os repórteres em cidades da Região Metropolitana do Recife, do Agreste e do Sertão trazem as informações que o telespectador precisa para o dia. Além de trânsito e tempo, o telejornal mostra empreendedores, gente que dá emprego, agências que precisam de trabalhadores. Os repórteres estão nas feiras e nos mercados ouvindo o povo e especialistas que dão dicas de como comprar bem e ter uma vida mais saudável. Todos os dias, as notícias do esporte em Pernambuco têm espaço garantido. De segunda a sexta, às 6h.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">NE1</title>
+    <desc lang="pt">O que aconteceu de mais importante na manhã está no NE1. Um bom tempo do telejornal é dedicado à vida das comunidades: a solução de problemas é cobrada no Calendário, as festas, os eventos e também quem quer ser famoso. No quadro "É Pipoco", novos talentos das comunidades podem mostrar o trabalho. Educação e saúde também fazem parte do conteúdo do telejornal. De segunda a sábado, ao meio-dia.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O esporte que está no coração dos brasileiros é o motor do Globo Esporte, que traz notícias fresquinhas sobre o desempenho dos times pernambucanos, tanto no campeonato estadual quanto no Brasileirão. O vaivém de atletas, o sobe-e-desce na classificação, as loucuras dos torcedores para demonstrar o amor pelo clube... Tudo interessa à pauta do GE.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">NE2</title>
+    <desc lang="pt">O NE2 traz o que foi notícia no dia em todo o estado. Economia, política e futebol numa linguagem simples para deixar todos bem informados. Ao vivo, os repórteres mostram os eventos da noite e o telespectador fica sabendo como está a volta para casa de ônibus, de carro ou de metrô. De segunda a sábado, após a Novela I.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324004000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="Regionais - rio">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="Regionais - rio">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="Regionais - rio">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="Regionais - rio">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="Regionais - rio">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="Regionais - rio">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="Regionais - rio">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323113000 +0000" channel="Regionais - rio">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="Regionais - rio">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="Regionais - rio">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="Regionais - rio">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="Regionais - rio">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="Regionais - rio">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="Regionais - rio">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="Regionais - rio">
+    <title lang="pt">Sessão da Tarde - A Última Palavra</title>
+    <title lang="en">The Last Word</title>
+    <desc lang="pt">Uma mulher de negócios bem-sucedida decide escrever seu obituário dizendo seus grandes feitos. Para isso ela contrata uma jornalista, Anne Sherman. Mas Harriet não fica satisfeita com o rascunho e resolve partir numa grande aventura para reescrever sua história de vida.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="Regionais - rio">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="Regionais - rio">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="Regionais - rio">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="Regionais - rio">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="Regionais - rio">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="Regionais - rio">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323113000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Sessão da Tarde - A Última Palavra</title>
+    <title lang="en">The Last Word</title>
+    <desc lang="pt">Uma mulher de negócios bem-sucedida decide escrever seu obituário dizendo seus grandes feitos. Para isso ela contrata uma jornalista, Anne Sherman. Mas Harriet não fica satisfeita com o rascunho e resolve partir numa grande aventura para reescrever sua história de vida.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323103000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20210323103000 +0000" stop="20210323113000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Bom Dia Cidade</title>
+    <desc lang="pt">As principais notícias da manhã, o caminho para o trabalho e a previsão do tempo num bate-papo informal. A apresentação é de Nathália Assis.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323144500 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323144500 +0000" stop="20210323160000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">EPTV 1</title>
+    <desc lang="pt">Tudo o que de mais importante acontece na região com a participação do público.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">EPTV 2</title>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="EPTV - campinas e região">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323103000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20210323103000 +0000" stop="20210323113000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Bom dia Cidade</title>
+    <desc lang="pt">As principais notícias da manhã, o caminho para o trabalho e a previsão do tempo num bate-papo informal.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323144500 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323144500 +0000" stop="20210323160000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">EPTV 1</title>
+    <desc lang="pt">Tudo o que de mais importante acontece na região com a participação do público.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">EPTV 2</title>
+    <desc lang="pt">Telejornal que traz os principais fatos e acontecimentos do dia na cidade e região.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="EPTV - Ribeirão Preto e Franca">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323110000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Bom Dia Minas</title>
+  </programme>
+  <programme start="20210323110000 +0000" stop="20210323113000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Bom Dia Cidade</title>
+    <desc lang="pt">As principais notícias da manhã, o caminho para o trabalho e a previsão do tempo num bate-papo informal.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">EPTV 1</title>
+    <desc lang="pt">Tudo o que de mais importante acontece na região com a participação do público.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">EPTV 2</title>
+    <desc lang="pt">Telejornal que traz os principais fatos e acontecimentos do dia na cidade e região.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="EPTV - sul de minas">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323103000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20210323103000 +0000" stop="20210323113000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Bom Dia Cidade</title>
+    <desc lang="pt">As principais notícias da manhã, o caminho para o trabalho e a previsão do tempo num bate-papo informal.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">EPTV 1</title>
+    <desc lang="pt">Tudo o que de mais importante acontece na região com a participação do público.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">EPTV 2</title>
+    <desc lang="pt">Tudo o que de mais importante acontece na região com a participação do público.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="EPTV - São Carlos e Região">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323110000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210323110000 +0000" stop="20210323113000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Bom Dia Cidade</title>
+    <desc lang="pt">O telejornal traz as primeiras notícias da região e mais: esporte, economia, serviço, previsão do tempo e entrevistas.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Tem Notícias</title>
+    <desc lang="pt">Jornalístico local com as principais notícias da região e foco na prestação de serviços para a comunidade.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Tem Notícias</title>
+    <desc lang="pt">A edição noturna destaca os principais assuntos do dia e apresenta reportagens exclusivas, investigativas, de caráter econômico. Um olhar diferenciado e crítico sobre os acontecimentos regionais.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="TV TEM - Bauru">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Faixa da Madrugada</title>
+    <desc lang="pt">Reprise dos programas locais da TV TEM.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323110000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210323110000 +0000" stop="20210323113000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Bom Dia Cidade</title>
+    <desc lang="pt">O telejornal traz as primeiras notícias da região e mais: esporte, economia, serviço, previsão do tempo e entrevistas.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Tem Notícias</title>
+    <desc lang="pt">Jornalístico local com as principais notícias da região e foco na prestação de serviços para a comunidade.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Tem Notícias</title>
+    <desc lang="pt">A edição noturna destaca os principais assuntos do dia e apresenta reportagens exclusivas, investigativas, de caráter econômico. Um olhar diferenciado e crítico sobre os acontecimentos regionais.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="TV TEM - itapetininga">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323110000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210323110000 +0000" stop="20210323113000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Bom Dia Cidade</title>
+    <desc lang="pt">O telejornal traz as primeiras notícias da região e mais: esporte, economia, serviço, previsão do tempo e entrevistas.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Tem Notícias</title>
+    <desc lang="pt">Jornalístico local com as principais notícias da região e foco na prestação de serviços para a comunidade.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Tem Notícias</title>
+    <desc lang="pt">A edição noturna destaca os principais assuntos do dia e apresenta reportagens exclusivas, investigativas, de caráter econômico. Um olhar diferenciado e crítico sobre os acontecimentos regionais.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="TV TEM - sorocaba e região">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323110000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210323110000 +0000" stop="20210323113000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Bom Dia Cidade</title>
+    <desc lang="pt">O telejornal traz as primeiras notícias da região e mais: esporte, economia, serviço, previsão do tempo e entrevistas.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Tem Notícias</title>
+    <desc lang="pt">Jornalístico local com as principais notícias da região e foco na prestação de serviços para a comunidade.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Tem Notícias</title>
+    <desc lang="pt">A edição noturna destaca os principais assuntos do dia e apresenta reportagens exclusivas, investigativas, de caráter econômico. Um olhar diferenciado e crítico sobre os acontecimentos regionais.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="TV TEM - São José do Rio Preto">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="intertvmg">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="intertvmg">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="intertvmg">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="intertvmg">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="intertvmg">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="intertvmg">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="intertvmg">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323110000 +0000" channel="intertvmg">
+    <title lang="pt">Bom Dia MG</title>
+    <desc lang="pt">O Bom Dia MG apresenta as primeiras notícias do dia em todo o estado. Informação de trânsito, do clima e muito serviço ao cidadão.(n)</desc>
+  </programme>
+  <programme start="20210323110000 +0000" stop="20210323113000 +0000" channel="intertvmg">
+    <title lang="pt">Inter TV Notícia</title>
+    <desc lang="pt">Comece seu dia bem informado com os destaques da nossa região.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="intertvmg">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="intertvmg">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="intertvmg">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="intertvmg">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">As principais notícias locais, em um jornal dinâmico e com tudo o que acontece na nossa região.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="intertvmg">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="intertvmg">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="intertvmg">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="intertvmg">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="intertvmg">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="intertvmg">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="intertvmg">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">As notícias do dia da nossa região em um jornal completo e dinâmico.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="intertvmg">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">A história três mulheres que testemunham um crime e têm suas vidas completamente transformadas.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324004000 +0000" channel="intertvmg">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="intertvrj">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="intertvrj">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="intertvrj">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="intertvrj">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="intertvrj">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="intertvrj">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="intertvrj">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323113000 +0000" channel="intertvrj">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">Acorde com as principais informações do interior do Rio e da capital.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="intertvrj">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="intertvrj">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323144500 +0000" channel="intertvrj">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323144500 +0000" stop="20210323160000 +0000" channel="intertvrj">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">Apresentado por Ana Paula Mendes, o telejornal da hora do almoço traz as principais notícias das regiões Serrana, dos Lagos, Norte e Noroeste Fluminense.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="intertvrj">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Fique por dentro das notícias do dia a dia que acontecem no mundo do esporte.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="intertvrj">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="intertvrj">
+    <title lang="pt">Sessão da Tarde - A Última Palavra</title>
+    <title lang="en">The Last Word</title>
+    <desc lang="pt">Uma mulher de negócios bem-sucedida decide escrever seu obituário dizendo seus grandes feitos. Para isso ela contrata uma jornalista, Anne Sherman. Mas Harriet não fica satisfeita com o rascunho e resolve partir numa grande aventura para reescrever sua história de vida.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="intertvrj">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="intertvrj">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="intertvrj">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="intertvrj">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal traz as principais notícias do dia, com edição exclusiva para as regiões Serrana, dos Lagos e Noroeste, e outra para o Norte Fluminense.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="intertvrj">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="intertvrj">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="tv integracao">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="tv integracao">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="tv integracao">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="tv integracao">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="tv integracao">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="tv integracao">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="tv integracao">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323110000 +0000" channel="tv integracao">
+    <title lang="pt">Bom Dia Minas</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia Praça, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210323110000 +0000" stop="20210323113000 +0000" channel="tv integracao">
+    <title lang="pt">Integração Notícia</title>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="tv integracao">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="tv integracao">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="tv integracao">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="tv integracao">
+    <title lang="pt">MG1</title>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="tv integracao">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="tv integracao">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="tv integracao">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="tv integracao">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="tv integracao">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="tv integracao">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="tv integracao">
+    <title lang="pt">MG2</title>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="tv integracao">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324004000 +0000" channel="tv integracao">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="tv tribuna">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="tv tribuna">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="tv tribuna">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="tv tribuna">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="tv tribuna">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="tv tribuna">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="tv tribuna">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323110000 +0000" channel="tv tribuna">
+    <title lang="pt">Bom Dia São Paulo</title>
+  </programme>
+  <programme start="20210323110000 +0000" stop="20210323113000 +0000" channel="tv tribuna">
+    <title lang="pt">Bom Dia Região</title>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="tv tribuna">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="tv tribuna">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="tv tribuna">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323154500 +0000" channel="tv tribuna">
+    <title lang="pt">Jornal da Tribuna 1ª edição</title>
+  </programme>
+  <programme start="20210323154500 +0000" stop="20210323160000 +0000" channel="tv tribuna">
+    <title lang="pt">Tribuna Esporte</title>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="tv tribuna">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="tv tribuna">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="tv tribuna">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="tv tribuna">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="tv tribuna">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="tv tribuna">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="tv tribuna">
+    <title lang="pt">Jornal da Tribuna 2ª edição</title>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="tv tribuna">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324002500 +0000" channel="tv tribuna">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="tv vanguarda">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="tv vanguarda">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="tv vanguarda">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="tv vanguarda">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="tv vanguarda">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="tv vanguarda">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="tv vanguarda">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323110000 +0000" channel="tv vanguarda">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210323110000 +0000" stop="20210323113000 +0000" channel="tv vanguarda">
+    <title lang="pt">Bom Dia Vanguarda</title>
+    <desc lang="pt">Logo de manhã, o Bom Dia Vanguarda apresenta as principais notícias, a previsão do tempo, o movimento nas estradas, as oportunidades de emprego e de estágio - tudo o que importa para começar o dia bem informado. Segunda a sexta-feira, às 8h00.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="tv vanguarda">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="tv vanguarda">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="tv vanguarda">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="tv vanguarda">
+    <title lang="pt">Link Vanguarda</title>
+    <desc lang="pt">Interatividade é a palavra que melhor define o Link Vanguarda. Com quatro apresentadores, o telejornal diário traz as notícias da região com a participação dos telespectadores por meio das redes sociais. Tudo isso de maneira mais descontraída, como num bate-papo em casa na hora do almoço. Segunda a sábado, às 12h (aos sábados, às 12h20).(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="tv vanguarda">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="tv vanguarda">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="tv vanguarda">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="tv vanguarda">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="tv vanguarda">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="tv vanguarda">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="tv vanguarda">
+    <title lang="pt">Jornal Vanguarda</title>
+    <desc lang="pt">Edição diária que leva ao telespectador os principais assuntos da região. Mais que um registro dos acontecimentos, o compromisso com a verdade e a análise dos fatos. Economia, educação, política, esporte. Não há limite de temas a serem abordados pela equipe de jornalistas. Segunda a sábado, às 19h10.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="tv vanguarda">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">A história três mulheres que testemunham um crime e têm suas vidas completamente transformadas.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324004000 +0000" channel="tv vanguarda">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323012900 +0000" channel="tvdiario">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323012900 +0000" stop="20210323023100 +0000" channel="tvdiario">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323023100 +0000" stop="20210323035600 +0000" channel="tvdiario">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323035600 +0000" stop="20210323044000 +0000" channel="tvdiario">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323044000 +0000" stop="20210323070000 +0000" channel="tvdiario">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="tvdiario">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323110000 +0000" channel="tvdiario">
+    <title lang="pt">Bom Dia São Paulo</title>
+  </programme>
+  <programme start="20210323110000 +0000" stop="20210323113000 +0000" channel="tvdiario">
+    <title lang="pt">Bom Dia Diário</title>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="tvdiario">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="tvdiario">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="tvdiario">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="tvdiario">
+    <title lang="pt">Diário TV 1ª Edição</title>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="tvdiario">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323175400 +0000" channel="tvdiario">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323175400 +0000" stop="20210323193200 +0000" channel="tvdiario">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323193200 +0000" stop="20210323205700 +0000" channel="tvdiario">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323205700 +0000" stop="20210323213600 +0000" channel="tvdiario">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Jade vence o teste para o clipe e comemora com Lucrécia.(n)</desc>
+  </programme>
+  <programme start="20210323213600 +0000" stop="20210323221600 +0000" channel="tvdiario">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Vivi incentiva Cris a fazer uma inseminação artificial para realizar o sonho de ser mãe.(n)</desc>
+  </programme>
+  <programme start="20210323221600 +0000" stop="20210323224400 +0000" channel="tvdiario">
+    <title lang="pt">Diário TV 2ª Edição</title>
+  </programme>
+  <programme start="20210323224400 +0000" stop="20210323233000 +0000" channel="tvdiario">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Kyra pega a arma de Donato e, sem querer, atinge a fuselagem do avião.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324003500 +0000" channel="tvdiario">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="tvfronteira">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="tvfronteira">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="tvfronteira">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="tvfronteira">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="tvfronteira">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Uma conversa com o professor de filosofia e ética de Harvard sobre as ameaças à justiça e à democracia no mundo contemporâneo.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="tvfronteira">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="tvfronteira">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323103100 +0000" channel="tvfronteira">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210323103100 +0000" stop="20210323113000 +0000" channel="tvfronteira">
+    <title lang="pt">Bom Dia Fronteira</title>
+    <desc lang="pt">Bom Dia Fronteira é o primeiro telejornal regional do dia. Com apresentação de Tiago Rodrigues e Talita Lopes o programa traz para o telespectador do Oeste Paulista os fatos relevantes das últimas horas.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="tvfronteira">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="tvfronteira">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="tvfronteira">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="tvfronteira">
+    <title lang="pt">Fronteira Notícias I</title>
+    <desc lang="pt">O Fronteira Notícias 1ª Edição traz as principais notícias do Oeste Paulista. Exibido de segunda a sábado, o telejornal leva para os 56 municípios da área de cobertura da TV Fronteira.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="tvfronteira">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="tvfronteira">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="tvfronteira">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="tvfronteira">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="tvfronteira">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="tvfronteira">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="tvfronteira">
+    <title lang="pt">Fronteira Notícias II</title>
+    <desc lang="pt">O Fronteira Notícias 2ª Edição, líder incontestável de audiência no seu horário de exibição, tem o objetivo de informar com isenção e independência, as principais notícias do dia. Pecuária, agricultura, segurança, educação, saúde, reportagens investigativas e denúncias, são alguns dos temas tratados. Um espaço dedicado à cobertura da região, sem deixar de lado os destaques da capital e a repercussão dos principais fatos registrados no país. O Fronteira Notícias 2ª Edição é exibido de segunda a sábado, a partir das 19h10.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="tvfronteira">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">A história três mulheres que testemunham um crime e têm suas vidas completamente transformadas.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324004000 +0000" channel="tvfronteira">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
 </tv>
